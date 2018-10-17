@@ -1,4 +1,23 @@
-ul {
+.right { 
+    float: right;
+    margin-right: 15px;
+
+}
+
+.up {
+ margin-bottom: 50px;
+}
+
+.Bottom {
+    text-align: bottom;
+    position: absolute;
+    bottom:1;
+}
+.left {
+    float: left;
+    margin-left: 15px;
+}
+.list {
     list-style-type: none;
     margin: 0;
     margin-top: 15px;
